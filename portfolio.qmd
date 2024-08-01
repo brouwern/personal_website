@@ -1,0 +1,8 @@
+---
+title: "Data Science Portfolio"
+format: html
+---
+
+## 23, Python, and Me: Exploring open-access genomic data
+
+## Canopy closure

@@ -1,0 +1,23 @@
+---
+title: "Lectures"
+format: html
+---
+
+
+
+[*Lecture: Understanding phylogenetic trees*](https://www.youtube.com/watch?v=wXIWbrHR1IA)
+
+23k views on YouTube
+
+Slides are available on [Google Slides](https://docs.google.com/presentation/d/1CIJgFpz2wI6O3srC7RbMG8ovRNELuk1PtmU3teK1VR4/edit?usp=sharing)
+
+<div>
+<img src = https://github.com/brouwern/brouwer_portfolio_data/blob/main/youtube_video_clip-phylotrees.png?raw=true width="500" />
+</div>
+
+<br>
+
+
+[*Lecture: What is evolutionary biology?*](https://www.youtube.com/watch?v=kdb_-QnnsrM&list=PLTm5AXiSYPSRO90Omcgv2lAbHTB0haPr0&index=1)
+
+1.3K views on YouTube

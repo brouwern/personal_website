@@ -1,0 +1,11 @@
+---
+title: "Presentations"
+format: html
+---
+
+## Recent presentations
+
+[23, Python and Me: Using Machine Learning In Python to Analyze Consumer Genomics Data](https://docs.google.com/document/d/1u-POTN2kxyulHsJEoiUkJ8La1rRWkrA92gAvDefeH_8/edit?usp=sharing). [PyOhio 2024](https://www.pyohio.org/2024/program/talks/23-python-and-me-using-machine-learning-in-python-to-analyze/). July 27-28, 2024.  Accepted.
+
+
+[Storytelling with Data: 5 Hacks in 5 Minutes. PyCon2024 Lightning Talks](https://docs.google.com/presentation/d/1fWj2_XEh698xo6BKd7uGguoNC7uA19g_BMVzkTUJVQA/edit#slide=id.p).  May 19, 2024.

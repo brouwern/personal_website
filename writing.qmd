@@ -1,0 +1,21 @@
+---
+title: "Technical Writing"
+format: html
+---
+
+## **Textbook Chapter**:
+
+[**Learning the Math of Population Models**](https://bio.libretexts.org/Courses/Gettysburg_College/01%3A_Ecology_for_All/10%3A_Population_modeling/10.02%3A_Demographic_rates), *in* [Ecology for All!](https://bio.libretexts.org/Courses/Gettysburg_College/01%3A_Ecology_for_All)
+
+
+## **Technical reports and academic papers**
+
+From my work as a data scientist at the National Aviary, I authored of the statistical methods and results sections of the following papers, as well as created all of the figures:
+
+[*Long-term monitoring reveals an avian species credit in secondary forest patches of Costa Rica*](https://peerj.com/articles/3539/#methods)
+
+[*Avian community characteristics and demographics reveal how conservation value of regenerating tropical dry forest changes with forest age*](https://peerj.com/articles/5217/)
+
+<div>
+<img src = https://github.com/brouwern/brouwer_portfolio_data/blob/main/nmdsplot.jpeg?raw=true width="500" />
+</div>

@@ -1,0 +1,30 @@
+---
+title: "Data Visualization"
+format: html
+---
+
+
+
+[Unity in Diversity: Genetic similarities and differences between populations in the 1000 Genomes dataset](https://brouwern.github.io/posit_tables_2024/)
+
+<div>
+<img src = https://raw.githubusercontent.com/brouwern/brouwer_portfolio_data/main/posittable2024clip.JPG width="500" />
+</div>
+
+
+📊 **<u>Graph Gallery</u>**
+
+
+## A gallery of [data visualizations (Jupyter Notebook)](https://colab.research.google.com/drive/15T3W6RfkxtFPB0v8Bkf_gs6G29u25Q-0#scrollTo=ASEedvSXc8kh).
+
+I am an expert at data visualization with GGplot and Base R graphics, and have extensive experience with Matplotlib and Seaborn.  
+
+This [Jupyter notebooks](https://colab.research.google.com/drive/15T3W6RfkxtFPB0v8Bkf_gs6G29u25Q-0#scrollTo=ASEedvSXc8kh) links to examples that demonstrate my data visualization skills using open-access data.
+
+
+
+<div>
+<img src = https://github.com/brouwern/brouwer_portfolio_data/blob/main/graph_gallery_thumb.png?raw=true width="520" />
+</div>
+
+<br>

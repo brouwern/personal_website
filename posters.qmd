@@ -1,0 +1,20 @@
+---
+title: "Academic Posters"
+format: html
+---
+
+### **Academic Poster**:
+
+#### [*Making the most of your data: Advantages of mixed-effects models for the analysis of complex data*](https://www.researchgate.net/publication/320504750_Making_the_most_of_your_data_Advantages_of_mixed-effects_models_for_the_analysis_of_complex_data).
+
+Presented at the 3-Rivers Evolution Event (TREE), September 2017.
+
+<div>
+<img src = https://raw.githubusercontent.com/brouwern/brouwer_portfolio_data/main/glmm_poster.png width="500" />
+</div>
+
+
+
+Full poster available on [ResearchGate](https://www.researchgate.net/publication/320504750_Making_the_most_of_your_data_Advantages_of_mixed-effects_models_for_the_analysis_of_complex_data)
+
+<br>

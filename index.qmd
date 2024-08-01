@@ -1,7 +1,15 @@
 ---
-title: "temp"
+title: "Nathan Brouwer, Phd"
 ---
 
-This is a Quarto website.
+I am a Data Scientist and educator with 15 years of experience wrangling insights from complex datasets in R and Python.  
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This websites highlights 
+
+See my Portfolio for information on a recent project.
+
+**Email**: brouwern@gmail.com <br>
+**LinkedIn**: [bit.ly/brouwernPhDlinkedIn](https://bit.ly/brouwernPhDlinkedIn) <br>
+**GitHub**: [https://github.com/brouwern](https://github.com/brouwern) <br>
+
+

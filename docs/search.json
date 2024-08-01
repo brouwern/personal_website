@@ -1,16 +1,86 @@
 [
   {
+    "objectID": "writing.html",
+    "href": "writing.html",
+    "title": "Technical Writing",
+    "section": "",
+    "text": "Learning the Math of Population Models, in Ecology for All!"
+  },
+  {
+    "objectID": "writing.html#textbook-chapter",
+    "href": "writing.html#textbook-chapter",
+    "title": "Technical Writing",
+    "section": "",
+    "text": "Learning the Math of Population Models, in Ecology for All!"
+  },
+  {
+    "objectID": "writing.html#technical-reports-and-academic-papers",
+    "href": "writing.html#technical-reports-and-academic-papers",
+    "title": "Technical Writing",
+    "section": "Technical reports and academic papers",
+    "text": "Technical reports and academic papers\nFrom my work as a data scientist at the National Aviary, I authored of the statistical methods and results sections of the following papers, as well as created all of the figures:\nLong-term monitoring reveals an avian species credit in secondary forest patches of Costa Rica\nAvian community characteristics and demographics reveal how conservation value of regenerating tropical dry forest changes with forest age"
+  },
+  {
+    "objectID": "posters.html",
+    "href": "posters.html",
+    "title": "Academic Posters",
+    "section": "",
+    "text": "Academic Poster:\n\nMaking the most of your data: Advantages of mixed-effects models for the analysis of complex data.\nPresented at the 3-Rivers Evolution Event (TREE), September 2017.\n\n\n\nFull poster available on ResearchGate"
+  },
+  {
+    "objectID": "lectures.html",
+    "href": "lectures.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "Lecture: Understanding phylogenetic trees\n23k views on YouTube\nSlides are available on Google Slides\n\n\n\n\nLecture: What is evolutionary biology?\n1.3K views on YouTube"
+  },
+  {
+    "objectID": "data_viz.html",
+    "href": "data_viz.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "Unity in Diversity: Genetic similarities and differences between populations in the 1000 Genomes dataset\n📊 Graph Gallery"
+  },
+  {
+    "objectID": "data_viz.html#a-gallery-of-data-visualizations-jupyter-notebook.",
+    "href": "data_viz.html#a-gallery-of-data-visualizations-jupyter-notebook.",
+    "title": "Data Visualization",
+    "section": "A gallery of data visualizations (Jupyter Notebook).",
+    "text": "A gallery of data visualizations (Jupyter Notebook).\nI am an expert at data visualization with GGplot and Base R graphics, and have extensive experience with Matplotlib and Seaborn.\nThis Jupyter notebooks links to examples that demonstrate my data visualization skills using open-access data."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Nathan Brouwer, PhD  Email: brouwern@gmail.com  LinkedIn: bit.ly/brouwernPhDlinkedIn  GitHub: https://github.com/brouwern  Resume: In Google Doc format\nI am a Data Scientist and educator with 15 years of experience using R and Python to extract insights from complex datasets. I have extensive experience with all major statistical analyses, supervised learning algorithms, and unsupervised learning methods, including linear and logistic regression, random forests, neural networks, and k-means and hierarchical clustering. I use R and Python daily to process data, make actionable predictions, and create compelling graphics to reveal complex patterns.\n\nI just concluded my last semester as a Teaching Professor at the University of Pittsburgh, where I held teaching assignments focused on quantitative methods, computational biology and introductory biology.\nAs an instructor for large introductory courses, project management and science communication were key to my success. Each semester I ran one to two large courses and had up to 300 students. While meeting multiple deadlines to deliver lectures, assignments, readings, and exams, I also developed and delivered engaging in-person and online content. This fast-paced environment required me to play the simultaneous roles of writer, producer, director, web-designer, and data analyst. This resulted in a multi-tasked cycle of planning, working, and evaluating to render multiple deliverables each week (lectures, assignments, exams, etc.). I have finely honed my ability to set priorities, manage competing tasks, track progress, and organize project materials.\nIn all aspects of my work I take a data-driven, computing-based approach. Whenever possible I develop reproducible workflows to develop and deliver content to my research collaborators and students. Examples of my hybrid data science-teacher approach include: writing and updating my syllabi with scripts, extracting data from the primary literature to develop engaging new visualizations, using R to manage grades and information on student engagement, and writing software to build and manage exams.\nMy academic research and consulting primarily involve the analysis of complicated longitudinal data to characterize ecological trends. This requires careful development of both data cleaning and quality control workflows and carefully designed statistical models. My commitment to creating high-quality and validated data goes back to my first semester of my PhD work. As a first-year student, I was instructed to hand-curate a decade-long dataset, and I quickly realized the need to do tasks like this computationally with scripts. I’m now passionate about fully documented workflows, quality control, and data curation."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp",
+    "title": "Nathan Brouwer, Phd",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a Data Scientist and educator with 15 years of experience wrangling insights from complex datasets in R and Python.\nThis websites highlights\nSee my Portfolio for information on a recent project.\nEmail: brouwern@gmail.com  LinkedIn: bit.ly/brouwernPhDlinkedIn  GitHub: https://github.com/brouwern"
+  },
+  {
+    "objectID": "portfolio.html#canopy-closure",
+    "href": "portfolio.html#canopy-closure",
+    "title": "Data Science Portfolio",
+    "section": "Canopy closure",
+    "text": "Canopy closure"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "23, Python and Me: Using Machine Learning In Python to Analyze Consumer Genomics Data. PyOhio 2024. July 27-28, 2024. Accepted.\nStorytelling with Data: 5 Hacks in 5 Minutes. PyCon2024 Lightning Talks. May 19, 2024."
+  },
+  {
+    "objectID": "presentations.html#recent-presentations",
+    "href": "presentations.html#recent-presentations",
+    "title": "Presentations",
+    "section": "",
+    "text": "23, Python and Me: Using Machine Learning In Python to Analyze Consumer Genomics Data. PyOhio 2024. July 27-28, 2024. Accepted.\nStorytelling with Data: 5 Hacks in 5 Minutes. PyCon2024 Lightning Talks. May 19, 2024."
   }
 ]
