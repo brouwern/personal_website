@@ -5,7 +5,25 @@ format: html
 
 ## Recent presentations
 
-[23, Python and Me: Using Machine Learning In Python to Analyze Consumer Genomics Data](https://docs.google.com/document/d/1u-POTN2kxyulHsJEoiUkJ8La1rRWkrA92gAvDefeH_8/edit?usp=sharing). [PyOhio 2024](https://www.pyohio.org/2024/program/talks/23-python-and-me-using-machine-learning-in-python-to-analyze/). July 27-28, 2024.  Accepted.
+1. [23, Python and Me: Using Machine Learning In Python to Analyze Consumer Genomics Data](https://docs.google.com/document/d/1u-POTN2kxyulHsJEoiUkJ8La1rRWkrA92gAvDefeH_8/edit?usp=sharing). [PyOhio 2024](https://www.pyohio.org/2024/program/talks/23-python-and-me-using-machine-learning-in-python-to-analyze/). July 28, 2024. Slides available on [Google Slides](https://docs.google.com/presentation/d/1HMUPhWc9OPiFdaV77lV83Hpvc8KPHeuQsipUHdFWvr4/edit#slide=id.g2eef97595c1_0_77) 
+1. [Storytelling with Data: 5 Hacks in 5 Minutes. PyCon2024 Lightning Talks](https://docs.google.com/presentation/d/1fWj2_XEh698xo6BKd7uGguoNC7uA19g_BMVzkTUJVQA/edit#slide=id.p).  May 19, 2024.
 
+<br>
 
-[Storytelling with Data: 5 Hacks in 5 Minutes. PyCon2024 Lightning Talks](https://docs.google.com/presentation/d/1fWj2_XEh698xo6BKd7uGguoNC7uA19g_BMVzkTUJVQA/edit#slide=id.p).  May 19, 2024.
+## Previous Presentations
+
+### Invited talks
+
+1. Understanding the impacts of human land use on tropical bird populations: Case studies from South America, Central America, and the Caribbean. Pymatuning Laboratory of Ecology, May 2018 and Slippery Rock University, March 23, 2018.
+1. Tropical adventures in mixed modeling: Using mixed models to make the most of your hard-earned data. University of Pittsburgh Department of Biological Sciences. Nov. 1, 2017.
+1. Novel insights from long-term experiments into the impacts of invasive species and overabundant herbivores. Carnegie Museum of Natural History Moriarty Lecture. June 6, 2016.
+1. Building full-annual cycle models for migratory passerines. Partners in Flight Steering Committee Meeting. March 18, 2016. Pittsburgh, PA.
+1. The tangled understory: antagonistic species interactions in the eastern deciduous forest. Pymatuning Laboratory of Ecology, May 2015.
+
+### Conference presentations
+
+1. Kalisz, S, NL Brouwer & R Spigler. The demographic effects of invasion: modeling the impacts of garlic mustard on vital rates and population dynamics of native plants. ESA Annual Conference, August 2016. Fort Lauderdale, FL.
+1. Brouwer, NL, A Hale & S Kalisz. Experimental evidence linking overabundant deer to exotic invasion & native decline: Demographic & physiological mechanisms & consequences. Special Session, ESA Annual Conference, Aug. 2015, Baltimore, MD.
+1. Brouwer, NL & S Kalisz. An allelopathic invasive species increases prolonged dormancy in a forest perennial. Contributed talk, ESA Annual Conference. Aug. 2013, Minneapolis, MN.
+1. Brouwer, NL & S Kalisz. The ups and downs of dormancy: the importance of
+accounting for prolonged dormancy in plant populations. Contributed talk, ESA Annual Conference, August 2012. Portland, OR.

@@ -3,6 +3,31 @@ title: "Data Science Portfolio"
 format: html
 ---
 
-## 23, Python, and Me: Exploring open-access genomic data
+## [Deep Learning about deep ancestry: Demonstrating how genetic testing services can predict your heritage from your DNA](https://brouwern.github.io/DL_about_deep_ancestry/)
 
-## Canopy closure
+This website provides and overview of how machine learning is used in genomic data analysis and demonstrates using open-access data and Python. how a person's ancestry can be characterized from a DNA sample.
+
+
+## [Unity in Diversity: Genetic similarities and differences between populations in the 1000 Genomes dataset](https://brouwern.github.io/posit_tables_2024/)
+
+This website is my submission to the 2024 Posit Tables competition and demonstrates how complex data science results can be presented in an annotated heat map using the Great Tables Python package.   
+
+<div>
+<img src = https://raw.githubusercontent.com/brouwern/brouwer_portfolio_data/main/posittable2024clip.JPG width="500" />
+</div>
+
+
+## [A gallery of data visualizations (Jupyter Notebook)](https://colab.research.google.com/drive/15T3W6RfkxtFPB0v8Bkf_gs6G29u25Q-0#scrollTo=ASEedvSXc8kh).
+
+I am an expert at data visualization with GGplot and Base R graphics, and have extensive experience with Matplotlib and Seaborn.  
+
+This [Jupyter notebook](https://colab.research.google.com/drive/15T3W6RfkxtFPB0v8Bkf_gs6G29u25Q-0#scrollTo=ASEedvSXc8kh) links to examples that demonstrate my Python data visualization  using open-access data.
+
+
+
+<div>
+<img src = https://github.com/brouwern/brouwer_portfolio_data/blob/main/graph_gallery_thumb.png?raw=true width="520" />
+</div>
+
+<br>
+

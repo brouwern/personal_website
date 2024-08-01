@@ -3,9 +3,8 @@ title: "Academic Posters"
 format: html
 ---
 
-### **Academic Poster**:
 
-#### [*Making the most of your data: Advantages of mixed-effects models for the analysis of complex data*](https://www.researchgate.net/publication/320504750_Making_the_most_of_your_data_Advantages_of_mixed-effects_models_for_the_analysis_of_complex_data).
+*Making the most of your data: Advantages of mixed-effects models for the analysis of complex data*](https://www.researchgate.net/publication/320504750_Making_the_most_of_your_data_Advantages_of_mixed-effects_models_for_the_analysis_of_complex_data).
 
 Presented at the 3-Rivers Evolution Event (TREE), September 2017.
 
@@ -13,8 +12,17 @@ Presented at the 3-Rivers Evolution Event (TREE), September 2017.
 <img src = https://raw.githubusercontent.com/brouwern/brouwer_portfolio_data/main/glmm_poster.png width="500" />
 </div>
 
-
-
 Full poster available on [ResearchGate](https://www.researchgate.net/publication/320504750_Making_the_most_of_your_data_Advantages_of_mixed-effects_models_for_the_analysis_of_complex_data)
 
 <br>
+
+
+## Other posters
+
+1. Brouwer, NL & SC Latta. Unpacking Full-Annual Cycle (FAC) models using Sensitivity Analyses and Monte Carlo simulation. Three Rivers Evolution Event, Sept. 22, 2018, Pittsburgh, PA.
+1. Brouwer, NL, E Scott, & SC Latta. Making the most of your data: using generalized linear mixed models to analyze complex data. Three Rivers Evolution Event, Sept. 2017, Pittsburgh, PA.
+1. Brouwer, NL & SC Latta. Can vital rates predict summer versus winter population limitation? An investigation using a full-annual cycle population model. North American Ornithological Conference, August 2016. Washington, DC.
+1. Brouwer, NL, A Hale, J Burke & S Kalisz. Mutualism-disrupting allelopathic invader drives carbon stress & vital rate decline in a forest perennial herbs. Contributed poster, British Ecological Society Annual Symposium. March 2015, Sheffield, UK.
+1. Brouwer, NL & S Kalisz. The one-two punch: deer herbivory and invasive plants knock out population stability of a native forest wildflower. ESA Annual Conference, August 2010. Pittsburgh, PA.
+1. Brouwer, NL & S Kalisz. Does a one-two punch drive forest perennial plant dormancy? Experimental tests of negative tri-trophic species interactions in a forest ecosystem. University of Pittsburgh College of Arts and Sciences Grad Expo, March 2010. Pittsburgh, PA.
+1. Brouwer, NL, H Lang & CE Cameron. Heterologous expression of a Syphilis (*Treponema pallidum* susp. *pallidum*) adhesin in non-adherent E. coli. American Society for Microbiology annual meeting, June 2004. New Orleans, LA.

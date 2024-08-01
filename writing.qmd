@@ -19,3 +19,27 @@ From my work as a data scientist at the National Aviary, I authored of the stati
 <div>
 <img src = https://github.com/brouwern/brouwer_portfolio_data/blob/main/nmdsplot.jpeg?raw=true width="500" />
 </div>
+
+
+## Peer-reviewed scientific papers
+
+1. Trevelline, BK, T Nuttle, BA Porter, NL Brouwer, BD Hoenig, ZD Steffensmeier & SC Latta. 2018. Stream acidification and reduced availability of pollution-sensitive aquatic insects are associated with dietary shifts in a stream-dependent Neotropical migratory songbird. PeerJ 6:e5141 doi.org/10.7717/peerj.5141 Data & Code: https://peerj.com/articles/5141/#supplemental-information
+1. Latta, SC, NL Brouwer, DA Mejia and MM Paulino. 2018. Avian community characteristics and demographics reveal how conservation value of regenerating tropical dry forests changes with forest age. PeerJ 6: e5217 doi.org/10.7717/peerj.5217 Data & Code: https://github.com/brouwern/DRmencia
+1. Trevelline, B, NL Brouwer, BD Hoenig, Steven Latta, TN, & BA Porter. 2018. DNA metabarcoding reveals the importance of aquatic prey subsidies and the structure of dietary niches in a community of breeding riparian songbirds. Oecologia 187: 85-98.
+1. Latta SC, NL Brouwer, A Olivieri, J Girard-Woolley, JF Richardson. 2017. Long-term monitoring reveals an avian species credit in secondary forest patches of Costa Rica. PeerJ 5:e3539 doi.org/10.7717/peerj.3539. Data & Code: dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CEVZPL. 
+    1. Media coverage: “The overlooked potential of second-growth tropical forest” anthropocenemagazine.org 
+    1. Press release: 10-year study in Costa Rica finds birds native to mature tropical forests are returning to relatively young secondary forests. 
+    aviary.org/media/news-releases/costa-rica-study
+1. Heberling, JM, NL Brouwer & S Kalisz. 2017. Increased photosynthetic performance of an invasive forest herb mediated by deer overabundance. AoB Plants 9: plx011. DOI: 10.1093/aobpla/plx011. Part of special issue “Ungulates and invasive species: quantifying impacts and understanding interactions.”
+1. Brouwer, NL, A Hale & S Kalisz. 2015. Mutualism-disrupting allelopathic invader drives carbon stress & vital rate decline in a forest perennial herb. AoB Plants 7: plv014. DOI: 10.1093/aobpla/plv014. Invited paper for special issue “The role of soil microbial-driven belowground processes in mediating exotic plant invasions.”
+1. Mueller, KW, NL Brouwer & BD Congdon. 2005. Characteristics of unexploited black bass populations from a remote lake in the San Juan Archipelago, Washington. Northwest Science 79:131-140.
+1. Cameron, CE, NL Brouwer, LM Tisch, & JMY Kuroiwa. 2005. Defining the interaction of the *Treponema pallidum* adhesin Tp0751 with laminin. Infection & Immunity. 73: 7485-7494.
+1. Cameron, CE, EL Brown, JMY Kuroiwa, LM Schnapp, & NL Brouwer. 2004. *Treponema pallidum* fibronectin-binding proteins. Journal of Bacteriology. 186:7019-7022.
+
+## Technical publications and published book review
+
+1. Griffin, EA, R Bendis, NL Brouwer, J Hua, M Koski, G Meindl, & WP Carson. 2011. Book Review: Tropical Rain Forest Ecology, Diversity, and Conservation, by Ghazoul & Sheil, 2010. Plant Sciences Bulletin 57: 71-73.
+1. Brouwer, NL. 2009. Edison Online School’s Ninth-grade Biology, Part II: Ecology, Evolution, and Organism Biology. Quantum Scientific Publishing, New Castle, PA.
+1. Brouwer, NL, T Toft, & M Bah (editors). 2006. Yiriwaa Dokuwo: The Peace Corps Manual to Agroforestry and Forestry, 6th Edition. United States Peace Corps, Banjul, The Gambia.
+1. Jarju, AK, & NL Brouwer. 2005 Farmland biodiversity in The Gambia and the potential for biodiversity conservation in restored *Faidherbia albida* parklands. In L Barnett and K Emms, eds, Proc of the 1st Conference on Gambian Biodiversity, Makasuto Wildlife Trust, Serrekunda, The Gambia.
+1. Mueller, KW, NL Brouwer, & BD Congdon. 2002. 2001 Spencer Lake survey: biological characteristics of a minimally exploited, isolated fish community consisting of smallmouth bass, largemouth bass, and prickly sculpin. WA Department of Fish & Wildlife Technical Report FPT 02-12. Olympia, WA.

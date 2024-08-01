@@ -3,18 +3,25 @@ project:
   output-dir: docs
 
 website:
-  title: "temp"
+  title: "Nathan Brouwer, PhD"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - about.qmd 
+      - text: "Portfolio"
+        menu:
+          - portfolio.qmd
+      - data_viz.qmd       # Data Visualization
+      - text: "Communication"
+        menu:
+          - writing.qmd        # Technical writing
+          - presentations.qmd
+          - lectures.qmd       # Lectures
+          - posters.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
